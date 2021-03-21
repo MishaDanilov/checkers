@@ -1,2 +1,3 @@
 # checkers
-checkers with AI
+checkers v0.5
+checkers without AI
